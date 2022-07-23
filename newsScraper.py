@@ -29,7 +29,7 @@ content += ('<br><br>End of Message')
 # Sending Email
 SERVER = 'smtp.gmail.com'
 PORT = 587
-FROM = 'owaisbhat996@gmail.com'
+FROM = ''
 PASSWORD = ''
 TO = ''
 
